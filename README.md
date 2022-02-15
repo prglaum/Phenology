@@ -1,5 +1,8 @@
 # Phenology
-Matlab code used in Glaum et al 2020.
+Matlab code used in Glaum et al 2021.
+https://www.researchgate.net/publication/354682374_Phenology_and_flowering_overlap_drive_specialisation_in_plant-pollinator_networks
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13884
+https://figshare.com/articles/dataset/Data_for_Glaum_Wood_Morris_Valdovinos_2021_Ecology_Letters/16413354/1
 
 Phenology Pollination Model Tutorial
 Descriptive summary of the phenology pollination model
